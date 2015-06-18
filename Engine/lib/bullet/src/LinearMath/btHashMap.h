@@ -14,8 +14,8 @@ subject to the following restrictions:
 */
 
 
-#ifndef BT_HASH_MAP_H
-#define BT_HASH_MAP_H
+#ifndef BT_unordered_map_H
+#define BT_unordered_map_H
 
 #include "btAlignedObjectArray.h"
 
@@ -447,4 +447,4 @@ protected:
 
 };
 
-#endif //BT_HASH_MAP_H
+#endif //BT_unordered_map_H

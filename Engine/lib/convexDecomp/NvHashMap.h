@@ -28,8 +28,8 @@ NvHashMap.h : A simple hash map and array template class to avoid introducing de
 // Copyright � 2002-2008 AGEIA Technologies, Inc. All rights reserved.
 // Copyright � 2001-2006 NovodeX. All rights reserved.
 
-#ifndef NV_HASH_MAP_H
-#define NV_HASH_MAP_H
+#ifndef NV_unordered_map_H
+#define NV_unordered_map_H
 
 #include "NvUserMemAlloc.h"
 
